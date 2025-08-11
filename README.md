@@ -1,4 +1,4 @@
 # first-repo
 this is my first repo
 <br>
- - shaheer zaib shah
+Author - shaheer zaib shah
